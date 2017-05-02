@@ -1,0 +1,121 @@
+2017.04.05
+
+Proj:	Word Choice 1
+Study: 	2
+Head:	Mark Koranda
+
+This file contains all experimental development, modifications, and outcomes concerning only this local study. See logs in other study folders for respective information. See parent folder's 'products' folder for any and all edited presentations of these studies. This file is divided into two major sections. The first provides a snapshot of the experiment including summary statements, the second provides progress for each experimental phase in chronological order. Details for each are in their respective sections.
+
+
+# SNAPSHOT #
+###################################################################################
+
+# TABLE: Each major phase of the experiment should be completed in chronological order, with few exceptions. Ideally, the conclusion of one phase is the start of the next. In the rare cases that experiments are modified while ongoing, unique subfolders for development and experiment should be made, changes fully detailed here. (eg. Dev.p5, Dev.pX, Exp.p5, Exp.pX)
+
+# TABLE	1				
+#########################################
+ phase	poc	start	complete	#
+ Init	Mark	mm.dd	mm.dd		#
+ Dev	Mark	mm.dd	mm.dd		#
+ Exp	Jocelyn	mm.dd	open		#
+ Data	Jocelyn	mm.dd	open		#
+ Anlsys	Mark	na	na		#
+#########################################
+
+# SUMMARY: This is a descriptive summary of the state of each phase of the experiment. 
+Important notes for closed loop phases, or reminders for open-loop phases are described 
+here. These descriptions should ultimately look like publication sections, or directions 
+to quickly generate them.
+
+# Initiation #
+General description before work begins. Not required. 
+
+The previous study looked at X. We found X1. For this study we're hoping that X will let us 
+do/see/conclude Y.
+
+# Development #
+Description of how materials and design were developed.
+
+We developed stimuli with X variation, and Y control. We did this by using B software which 
+gave us J outcome. We tried A method, but got K outcome. We developed counterbalance Z1-factors 
+within and Z2-factors between subjects, randomized for Z3-factors.
+
+# Experiment #
+Description of experimental procedure, and runtime considerations.
+
+We used software E on F1 computers with F2 specialized equipment (audio, microphone, etc.). 
+Participants did G,H,I. These J things related to experiment presentation, went wrong n times. 
+They were (not) changed. If they were changed, we opened a new experiment and/or development 
+folder (added throughout all documentation including here).
+
+# Data #
+Description of observed raw and coded data (add coding section if needed; see readme).
+
+Unlike about experiment implementation, this is about observations made during the experiment. 
+Number of participants. We have n = observation X (missing n = reason j, n = reason k); n = 
+observation Y (same thing). Raw data points of interest were consolidated into a .csv file 
+manually. The coding scheme for the raw data file structure is below.
+
+# RAW DATA CODE KEY
+#####################
+
+header	description
+subj	01-XX number
+trial	01-XX
+cond	1/2
+order	1/2
+target	name
+dv	0/1
+rt	0-9999
+fill	name
+
+# Analysis #
+From raw and coded data to analysis outputs, we used excel to transform X, python to filter Y, and r to analyze Z. 
+
+..# Excel CSV #
+csv from raw data underwent the following basic transformations.
+
+..# Python CSV #
+
+..# R Analysis #
+
+###################################################################################
+# PROGRESS NOTES #
+###################################################################################
+# Description: This section contains chronological updates by phase (inter-phase chronology may overlap). When entering multiple lines (minimum one per topic), group by status (closed, unimp; closed, imp; open), and within status, by attn
+
+	stat	* = open loop for RA; + = open loop for Mark; _ =closed and important; blank =
+		closed, unimportant. 
+	date	mm-dd
+	person	who did it? (only needed once per date, or if importance changes.
+	descr	what went down?
+
+#####################
+# Comprehensive Log #
+#########################################
+ date	person	description
+ 04.05	Mark	Started and developed readme files and file structure for experiments.
+		Worked on study-specific readme file.
+_04.05	Mark	The file has a really cool feature to be used next time.
++04.05	Mark	Write phase-specific instructions, for example, experiment runtime and 
+		data logging procedure.
++04.05	Mark	Write a little section on what would happen if there was a "Coding" section.
+*04.05	Mark	Read this file.
+
+
+# Development #
+
+# Experiment #
+
+# Data #
+
+# Analysis #
+
+..# Excel CSV #
+
+
+..# Python CSV #
+
+
+..# R Analysis #
+
