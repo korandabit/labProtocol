@@ -27,14 +27,9 @@ Important notes for closed loop phases, or reminders for open-loop phases are de
 here. These descriptions should ultimately look like publication sections, or directions 
 to quickly generate them.
 
-# Initiation #
-General description before work begins. Not required. 
-
+# Development #
 The previous study looked at X. We found X1. For this study we're hoping that X will let us 
 do/see/conclude Y.
-
-# Development #
-Description of how materials and design were developed.
 
 We developed stimuli with X variation, and Y control. We did this by using B software which 
 gave us J outcome. We tried A method, but got K outcome. We developed counterbalance Z1-factors 
@@ -84,8 +79,6 @@ csv from raw data underwent the following basic transformations.
 ###################################################################################
 # Description: This section contains chronological updates by phase (inter-phase chronology may overlap). When entering multiple lines (minimum one per topic), group by status (closed, unimp; closed, imp; open), and within status, by attn
 
-	stat	* = open loop for RA; + = open loop for Mark; _ =closed and important; blank =
-		closed, unimportant. 
 	date	mm-dd
 	person	who did it? (only needed once per date, or if importance changes.
 	descr	what went down?
@@ -93,14 +86,14 @@ csv from raw data underwent the following basic transformations.
 #####################
 # Comprehensive Log #
 #########################################
- date	person	description
- 04.05	Mark	Started and developed readme files and file structure for experiments.
+date	person	description
+04.05	Mark	Started and developed readme files and file structure for experiments.
 		Worked on study-specific readme file.
-_04.05	Mark	The file has a really cool feature to be used next time.
-+04.05	Mark	Write phase-specific instructions, for example, experiment runtime and 
+04.05	Mark	The file has a really cool feature to be used next time.
+04.05	Mark	Write phase-specific instructions, for example, experiment runtime and 
 		data logging procedure.
-+04.05	Mark	Write a little section on what would happen if there was a "Coding" section.
-*04.05	Mark	Read this file.
+04.05	Mark	Write a little section on what would happen if there was a "Coding" section.
+04.05	Mark	Read this file.
 
 
 # Development #
