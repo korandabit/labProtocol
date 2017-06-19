@@ -2,7 +2,9 @@
 structure, procedure, expectations for working on projects
 
 ## What for
-First: to orient others to my workflow on experimental projects in LCNL. Second: to make explicit the roles and expectations of any collaborations on these projects - primarily between RAs and myself, but as a starting point for other collaborators. Third: to document and develop LCNL procedures
+1. to orient others to my workflow on experimental projects in LCNL. 
+2. to make explicit the roles and expectations of any collaborations on these projects - primarily between RAs and myself, but as a starting point for other collaborators. 
+3. to document and develop LCNL procedures
 
 #### for contributors
 Anyone looking to contribute should send a request to my email. You'll need to create a GitHub username if you haven't already, and ask me to add you as a contributor to this project.
