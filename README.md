@@ -2,7 +2,7 @@
 ## What
 structure, procedure, expectations for working on projects
 1. Folders and readme files (above) show how I organize my projects.
-2. [Documentation](../../wiki) explains philosophy, expectations and goals for task management, experimentation and analysis in the context of being a Research Assistant in the [Language and Cognitive Neuroscience Lab](http://www.lcnl.wisc.edu).
+2. [Documentation](../../wiki) explains philosophy, expectations and goals for task management, experimentation and analysis in the context of being a Research Assistant in the [Language and Cognitive Neuroscience Lab](http://lcnl.wisc.edu).
 
 ## What for
 1. to orient others to my workflow on experimental projects in LCNL. 
