@@ -5,7 +5,7 @@ This file explains the structure of experiment project folders. The parent folde
 products	a centralized place where all abstracts, conference presentations, talks, 
 		and publications are contained, ordered by date. 
 
-0_pilot		see below.
+0_pilot		same as X_study (below) except reflects pre-experimental testing.
 
 X_study		Contains all activity for individual studies. Each have the identical, 
 		following substructure and function.
