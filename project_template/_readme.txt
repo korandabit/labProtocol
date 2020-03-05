@@ -2,7 +2,7 @@
 
 This file explains the structure of experiment project folders. The parent folder ("00X project_name") is defined by a unifying project hypothesis it contains all the studies which apply to this hypothesis. Child folders are independent studies for the project.
 
-products	a centralized place where all abstracts, conference presentations, talks, 
+writing		a centralized place where all abstracts, conference presentations, talks, 
 		and publications are contained, ordered by date. 
 
 analysis	contains all/only transformed data and analysis, files labeled in serial 
